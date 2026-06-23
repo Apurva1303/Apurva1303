@@ -1,8 +1,4 @@
 # Hi there, I'm Apurva 👋
-<p align="center">
-  <img src="<img width="600" height="600" alt="kitty" src="https://github.com/user-attachments/assets/1be4cb5f-2e79-41ed-bff3-960ed57f9fd2" />
-" width="250">
-</p>
 
 ## 🎓 About Me
 
